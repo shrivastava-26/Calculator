@@ -1,7 +1,6 @@
 # ✨ Lekhalu - Calculator Application
 
-**Lekhalu** is a simple, responsive, and user-friendly calculator application built using **HTML**, **CSS**, and **JavaScript**. It supports basic arithmetic operations and is designed for ease of use on both desktop and mobile devices.
----
+Lekhalu is a simple, responsive, and user-friendly calculator application built using **HTML**, **CSS**, and **JavaScript**. It supports basic arithmetic operations and is designed for ease of use on both desktop and mobile devices.
 
 ## 🚀 Features
 
